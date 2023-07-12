@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">appProva2</string>
+    <string name="tvTitulo">App IMC</string>
+    <string name="tvPeso">Peso(Kg):</string>
+    <string name="tvAltura">Altura(M):</string>
+    <string name="tvStatus">Status:</string>
+    <string name="tvIMC">IMC:</string>
+    <string name="btCalculo">Calcular</string>
+
+</resources>
